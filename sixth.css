@@ -1,0 +1,25 @@
+.sixth{
+	
+	height: 300px;
+	background: -webkit-linear-gradient(top, rgba(255,15,123, 0.5),rgba(111,0,117, 0.5)), url(bckg6.jpg) no-repeat ;
+	background-size: cover;
+	background-position: bottom;
+
+}
+
+
+
+.des{
+	
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	margin: 0 5%;
+}
+
+.des h5{
+	
+	width: 50%;
+}
+
