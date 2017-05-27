@@ -15,7 +15,7 @@
 	flex-flow: column nowrap;
 	justify-content: space-around;
 	align-items: stretch;
-	margin: 0 5%;
+	margin: 0 100px;
 }
 
 .des h5{

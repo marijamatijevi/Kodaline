@@ -4,5 +4,41 @@ footer{
 	margin: 0;
 	float: left;
 	width: 100%;
+
+}
+
+.lista{
+	
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	color: white;
+	list-style: none;
+	margin-bottom: 20px;
+	
+	
+}
+
+footer li{
+	
+	padding-right: 50px;
+	
+}
+
+.copyright{
+	
+	display: block;
+	text-align: center;
+	color: rgba(255, 255, 255, 0.8);
+	margin-bottom: 20px;
+	
+}
+
+.lista i{
+	
+	font-size: 3px;
+	color: rgba(255, 255, 255, 0.4);
+	vertical-align: middle;
+	margin-right: 30px;
 	
 }

@@ -1,13 +1,10 @@
 .seventh{
 	
-	padding: 5% 2%;
 	background: #341A3D;
 	display: flex;
 	flex-flow: row nowrap;
 	color: white;
-
-	
-	
+	padding: 50px 100px;
 
 }
 

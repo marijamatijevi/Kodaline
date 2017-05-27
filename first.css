@@ -14,7 +14,7 @@ container{
 
 header{
 	display: flex;
-	margin: 1% 10% 0;
+	margin: 20px 150px 0;
 	flex: 1;
 }
 
@@ -40,7 +40,6 @@ p, li{
 
 .logo{
 	flex: 2;
-	margin: 0 5% 0 0;
 
 }
 
@@ -59,8 +58,8 @@ p, li{
 
 .bitno{
 	float: left;
-	margin: 15% 10% 10% ;
-	width: 23%;
+	margin: 150px 100px 100px ;
+	width: 25%;
 	flex: 1;
 }
 
@@ -69,7 +68,7 @@ p, li{
 }
 
 .bitno h5{
-	margin: 5% 0 15% 0;
+	margin: 30px 0 20px 0;
 	
 }
 
@@ -82,6 +81,14 @@ h4{
 h5{
 	
 	font-size: 30px;
+}
+
+.first .more{
+	
+	float: right;
+	margin-right: 20%;
+	
+	
 }
 
 .more{
