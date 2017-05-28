@@ -12,46 +12,52 @@
 	flex-direction: row;
 	margin: 50px 100px;
 }
-.fourth .desno{
-	
-	flex: 1;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-around
 
-}
 
 .fourth .left{
 	
-	flex: 2;
 	height: 100%;
 	margin-right: 50px;
+	flex: 2;
 	
 }
 
-.desno a{
+.right-button{
+	
+	flex: 1;
 	display: flex;
-	background-color: fuchsia;
-	text-align: center;
-	height: 30%;
+	flex-flow: column nowrap;
+	
 }
 
-.desno .button{
+.right-button a{
 	
-	
+	width: 100%;
 	margin: auto;
-}
-
-	
-.button{
-	
 	font-family: 'Bitter', serif;
 	font-size: 15px;
 	font-weight: bold;
 	color: white;
+	background-color: rgb(125, 13, 89);
+	text-align: center;
+	height: 30%;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	display: flex;
+
+}
+.right-button p{
+	
+	margin: auto;
+	
+}
+.right-button .jedan{
+	
+	
+
 }
 
-
-
-
-
+.right-button .dva{
+	
+	background-color: rgba();
+}

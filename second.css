@@ -2,11 +2,14 @@
 .row{
 	
 	display: flex;
-	margin: 0 100px;
+
 	
 }
 
-
+.second-mar{
+	
+	margin: 60px 100px;
+}
 
 .icon{
 	
@@ -16,8 +19,9 @@
 	font-size: 20px;
 }
 
-i{
+.second i{
 	
-	color: #8e1981;
+	color: rgba(129, 20, 78, 1);
+	font-size: 30px;
 
 }

@@ -8,18 +8,22 @@
 }
 
 
-
 .des{
 	
 	display: flex;
 	flex-flow: column nowrap;
 	justify-content: space-around;
 	align-items: stretch;
-	margin: 0 100px;
 }
 
 .des h5{
 	
-	width: 50%;
+	color: rgba(255, 255, 255, 0.70);
+	
 }
 
+.des-2{
+	
+	width: 50%;
+	margin: 50px 100px;
+}
