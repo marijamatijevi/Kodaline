@@ -38,7 +38,6 @@
 	font-size: 15px;
 	font-weight: bold;
 	color: white;
-	background-color: rgb(125, 13, 89);
 	text-align: center;
 	height: 30%;
 	text-transform: uppercase;
@@ -53,11 +52,11 @@
 }
 .right-button .jedan{
 	
-	
+	background-color: rgb(125, 13, 89);
 
 }
 
 .right-button .dva{
 	
-	background-color: rgba();
+	background-color: rgba(219, 113, 171, 1);
 }
