@@ -1,13 +1,13 @@
 .first{
 	width: 100%;
-	height: 100%;
+	height: 600px;
 	position: relative;
 	display: flex;
 	flex-direction: column;
 	background: -webkit-linear-gradient(top, rgba(255,15,123, 0.5),rgba(111,0,117, 0.5)), url(bckg1.jpg) no-repeat ;
 	background-size: cover;
 	background-position: bottom left;
-	clip-path: polygon(0 0, 1600px 0, 1600px 70%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
 	color: white;
 }
 
